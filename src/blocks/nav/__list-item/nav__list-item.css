@@ -1,0 +1,17 @@
+.nav__list-item {
+  margin-right: 18px;
+}
+
+.nav__list-item:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 580px) {
+  .nav__list-item {
+    margin-bottom: 32px;
+  }
+
+  .nav__list-item:last-child {
+    margin-bottom: 48px;
+  }
+}

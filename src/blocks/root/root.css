@@ -1,0 +1,8 @@
+@import url("./__header/root__header.css");
+@import url("./__content/root__content.css");
+@import url("./__footer/root__footer.css");
+
+.root {
+  max-width: 1280px;
+  min-width: 320px;
+}

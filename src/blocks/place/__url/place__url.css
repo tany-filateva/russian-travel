@@ -1,0 +1,10 @@
+.place__url {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px #fff solid;
+}
+
